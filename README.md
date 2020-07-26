@@ -1,4 +1,5 @@
 # News-Article-Classification
+Using Machine Learning classifiers and NLP Techniques
 
 This project is classify news articles into five classses maianly:
 1. Business
